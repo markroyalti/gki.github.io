@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i);
 
 
 
@@ -20,35 +20,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
+  font-family: 'Arimo', sans-serif;
+  font-size: 2.3rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 3.68rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.84rem;
+    font-size: calc( 1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -653,7 +653,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arimo', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1372,16 +1372,13 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qWjZ2xmP6y {
+.cid-qWJSF4snux {
   padding-top: 45px;
-  padding-bottom: 120px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-qWjZ2xmP6y .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-qWjZ2xmP6y H2 {
-  text-align: left;
+.cid-qWJSF4snux .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-qWf16lqLCs {
   background: #073b4c;
@@ -2300,6 +2297,9 @@ body {
 .cid-qWaFvbNRNA .nav-link:hover,
 .cid-qWaFvbNRNA .dropdown-item:hover {
   color: #073b4c !important;
+}
+.cid-qWOQf86UBd {
+  background-image: url("../../../assets/images/vlcsnap-1-1280x738.jpg");
 }
 #custom-html-14 {
   /* Type valid CSS here */
