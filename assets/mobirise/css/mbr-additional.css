@@ -2276,7 +2276,9 @@ body {
   color: #073b4c !important;
 }
 .cid-qWP0Op2iYZ {
-  background-image: url("../../../assets/images/vlcsnap-1-1280x738.jpg");
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-qWP0Op2iYZ .icons-media-container {
   display: flex;
@@ -2301,9 +2303,9 @@ body {
 .cid-qWP0Op2iYZ .card {
   padding-bottom: 1.5rem;
 }
-#custom-html-14 {
+#custom-html-1k {
   /* Type valid CSS here */
 }
-#custom-html-14 .my-image {
+#custom-html-1k .my-image {
   width: 100%;
 }
