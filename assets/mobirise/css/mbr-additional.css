@@ -2275,34 +2275,6 @@ body {
 .cid-qWaFvbNRNA .dropdown-item:hover {
   color: #073b4c !important;
 }
-.cid-qWP0Op2iYZ {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
-}
-.cid-qWP0Op2iYZ .icons-media-container {
-  display: flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-qWP0Op2iYZ .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-qWP0Op2iYZ .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-qWP0Op2iYZ .mbr-text {
-  color: #ffffff;
-}
-.cid-qWP0Op2iYZ .card {
-  padding-bottom: 1.5rem;
-}
 #custom-html-1k {
   /* Type valid CSS here */
 }
